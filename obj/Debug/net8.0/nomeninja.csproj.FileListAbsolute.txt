@@ -1,0 +1,14 @@
+C:\Users\gacha\Documents\nomeninja\bin\Debug\net8.0\nomeninja.exe
+C:\Users\gacha\Documents\nomeninja\bin\Debug\net8.0\nomeninja.deps.json
+C:\Users\gacha\Documents\nomeninja\bin\Debug\net8.0\nomeninja.runtimeconfig.json
+C:\Users\gacha\Documents\nomeninja\bin\Debug\net8.0\nomeninja.dll
+C:\Users\gacha\Documents\nomeninja\bin\Debug\net8.0\nomeninja.pdb
+C:\Users\gacha\Documents\nomeninja\obj\Debug\net8.0\nomeninja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gacha\Documents\nomeninja\obj\Debug\net8.0\nomeninja.AssemblyInfoInputs.cache
+C:\Users\gacha\Documents\nomeninja\obj\Debug\net8.0\nomeninja.AssemblyInfo.cs
+C:\Users\gacha\Documents\nomeninja\obj\Debug\net8.0\nomeninja.csproj.CoreCompileInputs.cache
+C:\Users\gacha\Documents\nomeninja\obj\Debug\net8.0\nomeninja.dll
+C:\Users\gacha\Documents\nomeninja\obj\Debug\net8.0\refint\nomeninja.dll
+C:\Users\gacha\Documents\nomeninja\obj\Debug\net8.0\nomeninja.pdb
+C:\Users\gacha\Documents\nomeninja\obj\Debug\net8.0\nomeninja.genruntimeconfig.cache
+C:\Users\gacha\Documents\nomeninja\obj\Debug\net8.0\ref\nomeninja.dll
